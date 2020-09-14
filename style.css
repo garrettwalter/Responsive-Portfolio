@@ -16,3 +16,10 @@
   height: 40px;
   background: rgb(92, 92, 92);
 }
+
+html {
+    background-color: lightgrey;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
