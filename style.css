@@ -4,7 +4,7 @@
   bottom: 0;
   width: 100%;
   /* Height of the footer*/
-  height: 60px;
+  height: 90px;
   background: teal;
 }
 #footer {
@@ -13,7 +13,7 @@
   bottom: 0;
   width: 100%;
   /* Height of the footer*/
-  height: 50px;
+  height: 80px;
   background: rgb(92, 92, 92);
 }
 
@@ -22,4 +22,17 @@ html {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+.navbar {
+    height: 90px;
+}
+
+.display-4 {
+    color: teal;
+    font-weight: bold;
+}
+.jumbotron {
+    margin-top: 110px; 
+    margin-left: 50px; 
+    background-color: white;
 }
