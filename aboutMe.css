@@ -1,12 +1,10 @@
-.display-4 {
-    color: teal;
-    font-weight: bold;
-}
-.jumbotron {
-    margin-top: 70px; 
-    margin-left: 30px; 
-    background-color: white;
-}
+
 .row {
     background-color: lightgrey;
+}
+.aboutMeContent{
+    background-color: white;
+}
+#exampleImg{
+    float: left;
 }
