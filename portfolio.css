@@ -2,3 +2,6 @@
 .row {
     background-color: lightgrey;
 }
+#portfolioImg{
+    margin: 15px;
+}

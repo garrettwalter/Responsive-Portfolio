@@ -34,5 +34,6 @@ html {
 .jumbotron {
     margin-top: 110px; 
     margin-left: 50px; 
+    margin-bottom: 100px;
     background-color: white;
 }
