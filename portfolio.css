@@ -6,3 +6,8 @@
 .portfolioPics {
     background-color: white;
 }
+@media screen and (max-width: 768px) {
+    .portfolioImg {
+        float: none;
+    }
+    
